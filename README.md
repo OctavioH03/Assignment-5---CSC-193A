@@ -1,1 +1,1 @@
-# Assignment-5---CSC-193A
+# Assignment 5 - CSC-193A
