@@ -1,0 +1,10 @@
+fieldset {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+legend {
+    font-weight: bold;
+    font-size: 14pt;
+}
